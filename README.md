@@ -75,7 +75,7 @@
   
 ![Profile views](https://gpvc.arturio.dev/romanyad)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avinash-218&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=romanyad&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
   
 <details><summary>Contribution Graph</summary>
 <p align="left">
