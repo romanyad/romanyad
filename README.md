@@ -3,12 +3,7 @@
 <h3 align="center">Web Developer, Open-source Contributor and Life-Long Learner</h3>
 
 ## Dynamic Quotes 📜:
-![banner](./assets/README.png)
-
-![alt](https://img.shields.io/apm/l/vim-mode?label=license&logo=dark-green) ![PRs Welcome](https://img.shields.io/badge/PRs-Welcome-success) ![Open Source? Yes!](https://badgen.net/badge/Open%20Source%20%3F/Yes%21/blue?icon=github) [![GitHub contributors](https://img.shields.io/github/contributors/shravan20/github-readme-quotes.svg)](https://github.com/shravan20/github-readme-quotes/graphs/contributors) ![Pull Request Counts](https://img.shields.io/bitbucket/pr/shravan20/github-readme-quotes) ![last commit](https://img.shields.io/github/last-commit/shravan20/github-readme-quotes) ![deployment-status](https://img.shields.io/website?url=https%3A%2F%2Fgithub-readme-quotes.herokuapp.com%2Fquote) [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/shravan20/github-readme-quotes/)
-<a href="https://discord.gg/QJ8cnPHgVZ">
-  <img align="center" src="https://img.shields.io/discord/779439447736451132?label=discord-server&style=flat-square" />
-</a>
+![Quote](https://camo.githubusercontent.com/50f09cb7098af08d569f223bd22ea2f8ae1cc820ae0d684a35b61d3cae992ddb/68747470733a2f2f71756f7465732d6769746875622d726561646d652e76657263656c2e6170702f6170693f7468656d653d6361747070756363696e)
 
 <br>
 <b> "Sleep😴 To Program Your Subconscious Space"</b>
