@@ -12,7 +12,7 @@
 
 <p>
   
-- Software Engineering - 3rd year @ Universiti Teknologi Malaysia. 🎓
+- Software Engineering - Final year @ Universiti Teknologi Malaysia. 🎓
 - Looking for opportunities and collaborations in the field of web developement. ✅
 - Seeking opportunities to work in a challenging environments and push my boundaries. 💪
 
