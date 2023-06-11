@@ -20,8 +20,10 @@
 
 <div align="center">
 
-## **Scan to fly through my Portfolio**
-<a href="https://romanyad.github.io/seeroman/"><img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"></a>
+## **My Portfolio**
+<a href="https://romanyad.github.io/seeroman/">
+<!--   <img src="Images/QR_portfolio.png" width="200" height="200" alt="WebsiteQR"> -->
+  </a>
 </div>
 
 <img width="40%" align="right" alt="Github Header" src="Images/coding_2.gif" />
